@@ -34,5 +34,11 @@
     <Text Include="input.txt">
       <Filter>Fichiers de ressources</Filter>
     </Text>
+    <Text Include="..\..\..\..\Users\cleme\Downloads\test_m2.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </Text>
+    <Text Include="..\..\..\..\Users\cleme\Downloads\test_m1.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </Text>
   </ItemGroup>
 </Project>
