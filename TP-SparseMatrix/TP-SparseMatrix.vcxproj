@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Users\cleme\Downloads\OneDrive_1_11-04-2023\Complexe.h" />
     <ClInclude Include="SparseMatrix.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Users\cleme\Downloads\OneDrive_1_11-04-2023\Complexe.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
